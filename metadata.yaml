@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '26793'
     url: http://www.gutenberg.org/2009/agents/26793
     wikipedia: http://en.wikipedia.org/wiki/William_Withering
+covers:
+- cover_type: archival
+  image_path: 74532-h/images/cover.jpg
 creator:
   author:
     agent_name: Bergman, Torbern
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54777
     wikipedia: https://en.wikipedia.org/wiki/Torbern_Bergman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74532#Outlines-of-mineralogy
 gutenberg_issued: '2024-10-06'
 gutenberg_type: Text
 identifiers:
